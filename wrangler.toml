@@ -1,0 +1,6 @@
+name = "mpd-fetcher"
+main = "index.js"
+compatibility_date = "2024-12-01"
+
+[triggers]
+crons = ["*/10 * * * *"]
